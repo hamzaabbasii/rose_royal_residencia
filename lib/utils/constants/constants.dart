@@ -1,0 +1,1 @@
+const kBaseUrl = 'http://localhost:8000';
