@@ -3,7 +3,9 @@ Rose Royal Residencia (RRR)
 Rose Royal Residencia (RRR) is a comprehensive and innovative application designed specifically for the esteemed Rose Royal Residencia Society in Islamabad. This app empowers users by providing a seamless digital experience to manage their properties and stay informed about the latest developments within the society.
 
 Key Features:
+
 1-> Stay Updated: Receive real-time updates from the RRR team, ensuring that you are always informed about the latest news, events, and announcements related to the society.
+
 2-> File Management: Effortlessly manage your property files within the app. Keep track of your property documents, file status, and other essential information with ease.
 3-> Online Payments: Securely manage and execute your property payments online. The app offers a streamlined payment process, allowing you to pay your istallments from the comfort of your home.
 4-> Interactive Communication: Engage in direct communication with the administration through the app's chat feature. Whether you have inquiries or require assistance, the chat functionality ensures a responsive and efficient communication channel.
