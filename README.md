@@ -24,7 +24,7 @@ Here below are the few pictures of the design:
 
 ![image alt](https://github.com/hamzaabbasii/rose_royal_residencia/blob/c61a13b629627e48b373e5d050e7aa6b06ac8b16/home%20screen%20(1).png)
 
-![image alt](https://github.com/hamzaabbasii/rose_royal_residencia/blob/c61a13b629627e48b373e5d050e7aa6b06ac8b16/home%20screen%20(1).png)
+![image alt](https://github.com/hamzaabbasii/rose_royal_residencia/blob/359fc3d9f5fab12f83ab3914ecb4c87a5cfae4be/map%20screen%20(1).pnghttps://github.com/hamzaabbasii/rose_royal_residencia/blob/359fc3d9f5fab12f83ab3914ecb4c87a5cfae4be/map%20screen%20(1).png)
 
 ![image alt](https://github.com/hamzaabbasii/rose_royal_residencia/blob/c61a13b629627e48b373e5d050e7aa6b06ac8b16/home%20screen%20(1).png)
 
