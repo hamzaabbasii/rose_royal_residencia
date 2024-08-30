@@ -32,23 +32,6 @@ Here below are the few pictures of the design:
 
 ![image alt](https://github.com/hamzaabbasii/rose_royal_residencia/blob/98d1fdfd9ffffb0c4b8bd2ce713045dc5dba989d/complaints%20screen%20(1).png)
 
-![image alt](https://github.com/hamzaabbasii/rose_royal_residencia/blob/c61a13b629627e48b373e5d050e7aa6b06ac8b16/home%20screen%20(1).png)
+![image alt](https://github.com/hamzaabbasii/rose_royal_residencia/blob/1e814394d84c9b85f2cb0f3714285c0c8639020b/message.png)
 
-![image alt](https://github.com/hamzaabbasii/rose_royal_residencia/blob/c61a13b629627e48b373e5d050e7aa6b06ac8b16/home%20screen%20(1).png)
-
-![image alt](https://github.com/hamzaabbasii/rose_royal_residencia/blob/c61a13b629627e48b373e5d050e7aa6b06ac8b16/home%20screen%20(1).png)
-
-![image alt](https://github.com/hamzaabbasii/rose_royal_residencia/blob/c61a13b629627e48b373e5d050e7aa6b06ac8b16/home%20screen%20(1).png)
-
-![image alt](https://github.com/hamzaabbasii/rose_royal_residencia/blob/c61a13b629627e48b373e5d050e7aa6b06ac8b16/home%20screen%20(1).png)
-
-![image alt](https://github.com/hamzaabbasii/rose_royal_residencia/blob/c61a13b629627e48b373e5d050e7aa6b06ac8b16/home%20screen%20(1).png)
-
-![image alt](https://github.com/hamzaabbasii/rose_royal_residencia/blob/c61a13b629627e48b373e5d050e7aa6b06ac8b16/home%20screen%20(1).png)
-
-![image alt](https://github.com/hamzaabbasii/rose_royal_residencia/blob/c61a13b629627e48b373e5d050e7aa6b06ac8b16/home%20screen%20(1).png)
-
-![image alt](https://github.com/hamzaabbasii/rose_royal_residencia/blob/c61a13b629627e48b373e5d050e7aa6b06ac8b16/home%20screen%20(1).png)
-
-![image alt](https://github.com/hamzaabbasii/rose_royal_residencia/blob/c61a13b629627e48b373e5d050e7aa6b06ac8b16/home%20screen%20(1).png)
 
